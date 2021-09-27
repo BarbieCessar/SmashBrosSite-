@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="DIGIT%20400/supersmashtierlistRNC.rnc" type="application/relax-ng-compact-syntax"?>
+<charList>
+<char id="Mario">Mario
+    <supersmashbros4 tier="A"/>
+<supersmashbrosbrawl tier="F"/></char>
+    <char id = "Luigi">Luigi <supersmashbros4 tier="B"/></char>
+    <char id="Peach">Peach<supersmashbros4 tier="B"/></char>
+    <char id="Bowser">Bowser<supersmashbros4 tier="C"/></char>
+    <char id="Yoshi">Yoshi<supersmashbros4 tier="D"/></char>
+    <char id="Rosalina &amp; Luma">Rosalina &amp; Luma<supersmashbros4 tier="A"/></char>
+<char id="Donkey Kong">Donkey Kong<supersmashbros4 tier="C"/></char>
+<char id="Diddy Kong">Diddy Kong<supersmashbros4 tier="S"/></char>
+<char id="Link">Link<supersmashbros4 tier="D"/></char>
+<char id="Zelda">Zelda<supersmashbros4 tier="G"/></char>
+<char id="Sheik">Sheik<supersmashbros4 tier="A"/></char>
+<char id="Toon Link">Toon Link<supersmashbros4 tier="C"/></char>
+<char id="Samus">Samus<supersmashbros4 tier="D"/></char>
+<char id="Zero Suit Samus">Zero Suit Samus<supersmashbros4 tier="A"/></char>
+<char id="Pit">Pit<supersmashbros4 tier="D"/></char>
+<char id="Palutena">Palutena<supersmashbros4 tier="E"/></char>
+<char id="Marth">Marth<supersmashbros4 tier="A"/></char>
+<char id="Ike">Ike<supersmashbros4 tier="E"/></char>
+<char id="Robin">Robin<supersmashbros4 tier="D"/></char>
+<char id="Kirby">Kirby<supersmashbros4 tier="F"/></char>
+<char id="King Dedede">King Dedede<supersmashbros4 tier="G"/></char>
+<char id="Meta Knight">Meta Knight<supersmashbros4 tier="B"/></char>
+<char id="Little Mac">Little Mac<supersmashbros4 tier="E"/></char>
+<char id="Fox">Fox<supersmashbros4 tier="A"/></char>
+<char id="Pikachu">Pikachu<supersmashbros4 tier="B"/></char>
+<char id="Charizard">Charizard<supersmashbros4 tier="E"/></char>
+<char id="Lucario">Lucario<supersmashbros4 tier="B"/></char>
+<char id="Greninja">Greninja<supersmashbros4 tier="C"/></char>
+<char id="Captain Falcon">Captain Falcon<supersmashbros4 tier="B"/></char>
+<char id="Villager">Villager<supersmashbros4 tier="C"/></char>
+<char id="Pikmin &amp; Olimar">Pikmin &amp; Olimar<supersmashbros4 tier="C"/></char>
+<char id="Wii Fit Trainer">Wii Fit Trainer<supersmashbros4 tier="F"/></char>
+<char id="Shulk">Shulk<supersmashbros4 tier="D"/></char>
+<char id="Pac-Man">Pac-Man<supersmashbros4 tier="F"/></char>
+<char id="Mega Man">Mega Man<supersmashbros4 tier="C"/></char>
+<char id="Sonic">Sonic<supersmashbros4 tier="A"/></char>
+<char id="Mii Fighters">Mii Fighters<supersmashbros4 tier="UnRanked"/></char>
+
+<char id="Ness">Ness<supersmashbros4 tier="C"/></char>
+<char id="Falco">Falco<supersmashbros4 tier="F"/></char>
+<char id="Wario">Wario<supersmashbros4 tier="E"/></char>
+<char id="Lucina">Lucina<supersmashbros4 tier="B"/></char>
+<char id="DarkPit">Dark Pit<supersmashbros4 tier="D"/></char>
+<char id="Dr.Mario">Dr. Mario<supersmashbros4 tier="F"/></char>
+<char id="R.O.B.">R.O.B.<supersmashbros4 tier="D"/></char>
+<char id="Ganondorf">Ganondorf<supersmashbros4 tier="G"/></char>
+<char id="Mr. Game &amp; Watch">Mr. Game &amp; Watch<supersmashbros4 tier="E"/></char>
+<char id="BowserJr.">Bowser Jr.<supersmashbros4 tier="F"/></char>
+<char id="DuckHunt">Duck Hunt<supersmashbros4 tier="D"/></char>
+<char id="Jigglypuff">Jigglypuff<supersmashbros4 tier="G"/></char>
+
+<char id="Mewtwo">Mewtwo<supersmashbros4 tier="A"/></char>
+<char id="Lucas">Lucas<supersmashbros4 tier="C"/></char>
+<char id="Roy">Roy<supersmashbros4 tier="E"/></char>
+<char id="Ryu">Ryu<supersmashbros4 tier="A"/></char>
+<char id="Cloud Strife">Cloud Strife<supersmashbros4 tier="S"/></char>
+<char id="Corrin">Corrin<supersmashbros4 tier="B"/></char>
+<char id="Bayonetta">Bayonetta<supersmashbros4 tier="S"/></char></charList>
