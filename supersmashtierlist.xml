@@ -4,37 +4,37 @@
 <charList>
 <char id="Mario">Mario
     <supersmashbros4 tier="A"/>
-<supersmashbrosbrawl tier="F"/></char>
-    <char id = "Luigi">Luigi <supersmashbros4 tier="B"/><supersmashbrosbrawl tier="E"/></char>
+    <supersmashbrosbrawl tier="F"/> <supersmashbros1 tier="B"/> </char>
+    <char id = "Luigi">Luigi <supersmashbros4 tier="B"/><supersmashbrosbrawl tier="E"/><supersmashbros1 tier="C"/></char>
     <char id="Peach">Peach<supersmashbros4 tier="B"/><supersmashbrosbrawl tier="C-"/></char>
     <char id="Bowser">Bowser<supersmashbros4 tier="C"/><supersmashbrosbrawl tier="F"/></char>
-    <char id="Yoshi">Yoshi<supersmashbros4 tier="D"/><supersmashbrosbrawl tier="D"/></char>
+    <char id="Yoshi">Yoshi<supersmashbros4 tier="D"/><supersmashbrosbrawl tier="D"/><supersmashbros1 tier="A"/></char>
     <char id="Rosalina &amp; Luma">Rosalina &amp; Luma<supersmashbros4 tier="A"/></char>
-<char id="Donkey Kong">Donkey Kong<supersmashbros4 tier="C"/><supersmashbrosbrawl tier="D"/></char>
+    <char id="Donkey Kong">Donkey Kong<supersmashbros4 tier="C"/><supersmashbrosbrawl tier="D"/><supersmashbros1 tier="C"/></char>
 <char id="Diddy Kong">Diddy Kong<supersmashbros4 tier="S"/><supersmashbrosbrawl tier="A"/></char>
-<char id="Link">Link<supersmashbros4 tier="D"/><supersmashbrosbrawl tier="A+"/></char>
+    <char id="Link">Link<supersmashbros4 tier="D"/><supersmashbrosbrawl tier="A+"/><supersmashbros1 tier="C"/></char>
 <char id="Zelda">Zelda<supersmashbros4 tier="G"/><supersmashbrosbrawl tier="D"/></char>
 <char id="Sheik">Sheik<supersmashbros4 tier="A"/><supersmashbrosbrawl tier="D"/></char>
 <char id="Toon Link">Toon Link<supersmashbros4 tier="C"/><supersmashbrosbrawl tier="C+"/></char>
-<char id="Samus">Samus<supersmashbros4 tier="D"/><supersmashbrosbrawl tier="F"/></char>
+    <char id="Samus">Samus<supersmashbros4 tier="D"/><supersmashbrosbrawl tier="F"/><supersmashbros1 tier="C"/></char>
 <char id="Zero Suit Samus">Zero Suit Samus<supersmashbros4 tier="A"/><supersmashbrosbrawl tier="B"/></char>
 <char id="Pit">Pit<supersmashbros4 tier="D"/><supersmashbrosbrawl tier="C"/></char>
 <char id="Palutena">Palutena<supersmashbros4 tier="E"/></char>
 <char id="Marth">Marth<supersmashbros4 tier="A"/><supersmashbrosbrawl tier="A-"/></char>
 <char id="Ike">Ike<supersmashbros4 tier="E"/><supersmashbrosbrawl tier="D"/></char>
 <char id="Robin">Robin<supersmashbros4 tier="D"/></char>
-<char id="Kirby">Kirby<supersmashbros4 tier="F"/><supersmashbrosbrawl tier="D"/></char>
+    <char id="Kirby">Kirby<supersmashbros4 tier="F"/><supersmashbrosbrawl tier="D"/> <supersmashbros1 tier="S"/> </char>
 <char id="King Dedede">King Dedede<supersmashbros4 tier="G"/><supersmashbrosbrawl tier="C+"/></char>
 <char id="Meta Knight">Meta Knight<supersmashbros4 tier="B"/><supersmashbrosbrawl tier="SS"/></char>
 <char id="Little Mac">Little Mac<supersmashbros4 tier="E"/></char>
 <char id="Fox">Fox<supersmashbros4 tier="A"/><supersmashbrosbrawl tier="C"/></char>
 <char id ="Wolf"> Wolf<supersmashbrosbrawl tier="C"/></char>
-<char id="Pikachu">Pikachu<supersmashbros4 tier="B"/><supersmashbrosbrawl tier="B"/></char>
+    <char id="Pikachu">Pikachu<supersmashbros4 tier="B"/><supersmashbrosbrawl tier="B"/> <supersmashbros1 tier="S"/></char>
 <char id="Charizard">Charizard<supersmashbros4 tier="E"/></char>
 <char id = "Pokemon Trainer">Pokemon Trainer<supersmashbrosbrawl tier="E"/></char> 
 <char id="Lucario">Lucario<supersmashbros4 tier="B"/><supersmashbrosbrawl tier="C+"/></char>
 <char id="Greninja">Greninja<supersmashbros4 tier="C"/></char>
-<char id="Captain Falcon">Captain Falcon<supersmashbros4 tier="B"/><supersmashbrosbrawl tier="F"/></char>
+    <char id="Captain Falcon">Captain Falcon<supersmashbros4 tier="B"/><supersmashbrosbrawl tier="F"/><supersmashbros1 tier="A"/></char>
 <char id="Villager">Villager<supersmashbros4 tier="C"/></char>
 <char id="Pikmin &amp; Olimar">Pikmin &amp; Olimar<supersmashbros4 tier="C"/><supersmashbrosbrawl tier="A+"/></char>
 <char id="Wii Fit Trainer">Wii Fit Trainer<supersmashbros4 tier="F"/></char>
@@ -44,7 +44,7 @@
 <char id="Sonic">Sonic<supersmashbros4 tier="A"/><supersmashbrosbrawl tier="D"/></char>
 <char id="Mii Fighters">Mii Fighters<supersmashbros4 tier="UnRanked"/></char>
 
-<char id="Ness">Ness<supersmashbros4 tier="C"/><supersmashbrosbrawl tier="D"/></char>
+    <char id="Ness">Ness<supersmashbros4 tier="C"/><supersmashbrosbrawl tier="D"/><supersmashbros1 tier="C"/></char>
 <char id="Falco">Falco<supersmashbros4 tier="F"/><supersmashbrosbrawl tier="A-"/></char>
 <char id="Wario">Wario<supersmashbros4 tier="E"/><supersmashbrosbrawl tier="B"/></char>
 <char id="Lucina">Lucina<supersmashbros4 tier="B"/></char>
@@ -55,7 +55,7 @@
 <char id="Mr. Game &amp; Watch">Mr. Game &amp; Watch<supersmashbros4 tier="E"/></char>
 <char id="BowserJr.">Bowser Jr.<supersmashbros4 tier="F"/></char>
 <char id="DuckHunt">Duck Hunt<supersmashbros4 tier="D"/></char>
-<char id="Jigglypuff">Jigglypuff<supersmashbros4 tier="G"/><supersmashbrosbrawl tier="F"/></char>
+    <char id="Jigglypuff">Jigglypuff<supersmashbros4 tier="G"/><supersmashbrosbrawl tier="F"/> <supersmashbros1 tier="B"/></char>
 
 <char id="Mewtwo">Mewtwo<supersmashbros4 tier="A"/></char>
 <char id="Lucas">Lucas<supersmashbros4 tier="C"/><supersmashbrosbrawl tier="E"/></char>
@@ -65,17 +65,17 @@
 <char id="Corrin">Corrin<supersmashbros4 tier="B"/></char>
 <char id="Bayonetta">Bayonetta<supersmashbros4 tier="S"/></char>
 
-<char id="Fox">Fox<supersmashbrosmelee tier="S"/></char>
+    <char id="Fox">Fox<supersmashbrosmelee tier="S"/><supersmashbros1 tier="A"/></char>
 <char id="Marth">Marth<supersmashbrosmelee tier="S"/></char>
 <char id="Falco">Falco<supersmashbrosmelee tier="S"/></char>
 
 <char id="Sheik">Sheik<supersmashbrosmelee tier="A"/></char>
-<char id="CaptainFalco">Captain Falco<supersmashbrosmelee tier="A"/></char>
+    <char id="CaptainFalco">Captain Falco<supersmashbrosmelee tier="A"/> </char>
 <char id="Peach">Peach<supersmashbrosmelee tier="A"/></char>
 
 <char id="Ic eClimbers">Ice Climbers<supersmashbrosmelee tier="B+"/></char>
 <char id="Pikachu">Pikachu<supersmashbrosmelee tier="B+"/></char>
-<char id="Yoshi">Yoshi<supersmashbrosmelee tier="B+"/></char>
+    <char id="Yoshi">Yoshi<supersmashbrosmelee tier="B+"/></char>
 <char id="Samus">Samus<supersmashbrosmelee tier="B+"/></char>
 
 <char id="Luigi">Luigi<supersmashbrosmelee tier="B-"/></char>
