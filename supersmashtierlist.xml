@@ -65,35 +65,29 @@
 <char id="Corrin">Corrin<supersmashbros4 tier="B"/></char>
 <char id="Bayonetta">Bayonetta<supersmashbros4 tier="S"/></char>
 
-    <char id="Fox">Fox<supersmashbrosmelee tier="S"/><supersmashbros1 tier="A"/></char>
+    <char id="Fox">Fox<supersmashbrosmelee tier="S"/><supersmashbrosmelee tier="A"/></char>
 <char id="Marth">Marth<supersmashbrosmelee tier="S"/></char>
 <char id="Falco">Falco<supersmashbrosmelee tier="S"/></char>
-
 <char id="Sheik">Sheik<supersmashbrosmelee tier="A"/></char>
-    <char id="CaptainFalco">Captain Falco<supersmashbrosmelee tier="A"/> </char>
+<char id="CaptainFalco">Captain Falco<supersmashbrosmelee tier="A"/> </char>
 <char id="Peach">Peach<supersmashbrosmelee tier="A"/></char>
-
 <char id="Ic eClimbers">Ice Climbers<supersmashbrosmelee tier="B+"/></char>
 <char id="Pikachu">Pikachu<supersmashbrosmelee tier="B+"/></char>
-    <char id="Yoshi">Yoshi<supersmashbrosmelee tier="B+"/></char>
+<char id="Yoshi">Yoshi<supersmashbrosmelee tier="B+"/></char>
 <char id="Samus">Samus<supersmashbrosmelee tier="B+"/></char>
-
 <char id="Luigi">Luigi<supersmashbrosmelee tier="B-"/></char>
 <char id="Dr. Mario">Dr. Mario<supersmashbrosmelee tier="B-"/></char>
 <char id="Ganondorf">HanonDorf<supersmashbrosmelee tier="C+"/></char>
 <char id="Mario">Mario<supersmashbrosmelee tier="C+"/></char>
-
 <char id="Donkey Kong">Donkey Kong<supersmashbrosmelee tier="C-"/></char>
 <char id="Young Link">Young Link<supersmashbrosmelee tier="C-"/></char>
 <char id="Link">Link<supersmashbrosmelee tier="C-"/></char>
 <char id="Mr. Game &amp; Watch">Mr. Game &amp; Watch<supersmashbrosmelee tier="C-"/></char>
-
 <char id="Mewtwo">Mewtwo<supersmashbrosmelee tier="D"/></char>
 <char id="Roy">Roy<supersmashbrosmelee tier="D"/></char>
 <char id="Pichu">Pichu<supersmashbrosmelee tier="D"/></char>
 <char id="Ness">Ness<supersmashbrosmelee tier="D"/></char>
 <char id="Zelda">Zelda<supersmashbrosmelee tier="D"/></char>
-
 <char id="Kirby">Kirby<supersmashbrosmelee tier="F"/></char>
 <char id="Bowser">Bowser<supersmashbrosmelee tier="F"/></char>
 </charList>
