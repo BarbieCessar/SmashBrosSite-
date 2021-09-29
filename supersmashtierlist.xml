@@ -5,7 +5,7 @@
 <char id="Mario">Mario<supersmashbrosmelee tier="C+"/><supersmashbros4 tier="A"/><supersmashbrosbrawl tier="F"/> <supersmashbros1 tier="B"/> </char>
     <char id = "Luigi">Luigi <supersmashbrosmelee tier="B-"/> <supersmashbros4 tier="B"/><supersmashbrosbrawl tier="E"/><supersmashbros1 tier="C"/></char>
     <char id="Peach">Peach<supersmashbros4 tier="B"/><supersmashbrosbrawl tier="C-"/><supersmashbrosmelee tier="A"/></char>
-    <char id="Bowser">Bowser<supersmashbros4 tier="C"/><supersmashbrosbrawl tier="F"/></char>
+    <char id="Bowser">Bowser<supersmashbrosmelee tier="F"/><supersmashbros4 tier="C"/><supersmashbrosbrawl tier="F"/></char>
     <char id="Yoshi">Yoshi<supersmashbrosmelee tier="B+"/><supersmashbros4 tier="D"/><supersmashbrosbrawl tier="D"/><supersmashbros1 tier="A"/></char>
     <char id="Rosalina &amp; Luma">Rosalina &amp; Luma<supersmashbros4 tier="A"/></char>
     <char id="Donkey Kong">Donkey Kong<supersmashbrosmelee tier="C-"/><supersmashbros4 tier="C"/><supersmashbrosbrawl tier="D"/><supersmashbros1 tier="C"/></char>
@@ -21,7 +21,7 @@
 <char id="Marth">Marth<supersmashbros4 tier="A"/><supersmashbrosbrawl tier="A-"/><supersmashbrosmelee tier="S"/></char>
 <char id="Ike">Ike<supersmashbros4 tier="E"/><supersmashbrosbrawl tier="D"/></char>
 <char id="Robin">Robin<supersmashbros4 tier="D"/></char>
-    <char id="Kirby">Kirby<supersmashbros4 tier="F"/><supersmashbrosbrawl tier="D"/> <supersmashbros1 tier="S"/> </char>
+    <char id="Kirby">Kirby<supersmashbros4 tier="F"/><supersmashbrosbrawl tier="D"/> <supersmashbros1 tier="S"/> <supersmashbrosmelee tier="F"/></char>
 <char id="King Dedede">King Dedede<supersmashbros4 tier="G"/><supersmashbrosbrawl tier="C+"/></char>
 <char id="Meta Knight">Meta Knight<supersmashbros4 tier="B"/><supersmashbrosbrawl tier="SS"/></char>
 <char id="Little Mac">Little Mac<supersmashbros4 tier="E"/></char>
@@ -42,7 +42,7 @@
 <char id="Sonic">Sonic<supersmashbros4 tier="A"/><supersmashbrosbrawl tier="D"/></char>
 <char id="Mii Fighters">Mii Fighters<supersmashbros4 tier="UnRanked"/></char>
 
-    <char id="Ness">Ness<supersmashbros4 tier="C"/><supersmashbrosbrawl tier="D"/><supersmashbros1 tier="C"/></char>
+    <char id="Ness">Ness<supersmashbrosmelee tier="D"/><supersmashbros4 tier="C"/><supersmashbrosbrawl tier="D"/><supersmashbros1 tier="C"/></char>
 <char id="Falco">Falco<supersmashbros4 tier="F"/><supersmashbrosbrawl tier="A-"/><supersmashbrosmelee tier="S"/></char>
 <char id="Wario">Wario<supersmashbros4 tier="E"/><supersmashbrosbrawl tier="B"/></char>
 <char id="Lucina">Lucina<supersmashbros4 tier="B"/></char>
@@ -66,7 +66,4 @@
 <char id="Ice Climbers">Ice Climbers<supersmashbrosmelee tier="B+"/></char>
 <char id="Young Link">Young Link<supersmashbrosmelee tier="C-"/></char>
 <char id="Pichu">Pichu<supersmashbrosmelee tier="D"/></char>
-<char id="Ness">Ness<supersmashbrosmelee tier="D"/></char>
-<char id="Kirby">Kirby<supersmashbrosmelee tier="F"/></char>
-<char id="Bowser">Bowser<supersmashbrosmelee tier="F"/></char>
 </charList>
