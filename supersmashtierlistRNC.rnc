@@ -1,10 +1,9 @@
 start = charList
 charList = element charList {char+}
-char = element char {id, text,supersmashbros4*, supersmashbrosbrawl*,supersmashbrosmelee*, supersmashbros1*}
+char = element char {id, text, game+}
+game = element game {n, tier}
+n= attribute n {"1"|"2"|"3"|"4"}
 id = attribute id {text}
-supersmashbros4 = element supersmashbros4 {tier}
 tier  = attribute tier {"SS"|"S"|"A+"|"A"|"A-"|"B"|"B+"|"B-"|"C+"|"C"|"C-"|"D"|"E"|"F"|"G"|"UnRanked"}
-supersmashbrosbrawl = element supersmashbrosbrawl {tier}
-supersmashbrosmelee = element supersmashbrosmelee {tier}
-supersmashbros1 = element supersmashbros1 {tier}
+
 
