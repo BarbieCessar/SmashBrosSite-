@@ -2,7 +2,7 @@ start = charList
 charList = element charList {char+}
 char = element char {id, text, game+}
 game = element game {n, tier}
-n= attribute n {"1"|"2"|"3"|"4"}
+n= attribute n {"1"|"2"|"3"|"4"|"5"}
 id = attribute id {text}
 tier  = attribute tier {"SS"|"S"|"A+"|"A"|"A-"|"B"|"B+"|"B-"|"C+"|"C"|"C-"|"D"|"E"|"F"|"G"|"UnRanked"}
 
