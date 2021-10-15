@@ -19,10 +19,8 @@ let $charList := doc('/db/smashtiers/supersmashtierlist.xml')
 let $names:= $charList//char ! string(@id)
 for $n in $names
 let $game := $charList//char[@id=$n]/game/@n ! data() =>distinct-values()
-let $stringjoin := string-join($game,':')
-for $g in $game
-let $tier := $charList//game[@n=$g]/@tier ! string 
-let $string := string-join($tier,':')
+(:  :let $stringjoin := string-join($game,':'):)
+
 
 return 
     
@@ -50,14 +48,14 @@ return
         </td>
         <td>
             <ul>{
-                (:for $g in $game:)
-                for $t in $tier
-                let $tn := 
-               if($t=A)
-                    then 'A'
-                    else 'test'
+                for $g in $game
+                 let $tier := $charList//char[@id=$n]/game[@n=$g]/@tier ! string ()
+             (:  :let $string := string-join($tier,':'):)
+                let $distinctTiers := distinct-values($tier) 
+                for $dt in $distinctTiers
+               
                 return 
-                    <li>{$tn}</li>
+                    <li>{$dt}</li>
             }
             
             </ul>
