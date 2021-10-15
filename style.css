@@ -1,7 +1,7 @@
 @charset "UTF-8";
 body {
   background-color: #A3BCFF;
-}
+ 
 .img-container {
         text-align: center;
         display: block;
@@ -26,4 +26,7 @@ li a {
   display: block;
   padding: 8px;
   background-color: #FF2D2D;
-}
+  }
+
+
+ 
