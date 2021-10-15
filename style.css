@@ -1,5 +1,16 @@
 @charset "UTF-8";
-
+body {
+  background-color: #A3BCFF;
+}
+.img-container {
+        text-align: center;
+        display: block;
+      }
+      ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
 ul {
   list-style-type: none;
   margin: 0;
@@ -9,20 +20,10 @@ ul {
 
 li {
   float: left;
-	border-right: 1px solid #bbb;
 }
 
 li a {
   display: block;
   padding: 8px;
-  background-color: #dddddd;
-}
-
-
-li a:hover:not(.active) {
-  background-color: #111;
-}
-
-.active {
-  background-color: #04AA6D;
+  background-color: #FF2D2D;
 }
