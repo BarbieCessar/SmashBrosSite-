@@ -13,17 +13,18 @@ body {
   overflow: hidden;
   background-color: #333;
 }
-
-li {
-  float: left;
+li
+{
+  color: white;   
 }
 
 li a {
   display: block;
-  color: white;
+  color: white;  
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+  float: left;
 }
 
 li a:hover {
