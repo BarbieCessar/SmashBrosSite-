@@ -11,14 +11,19 @@ body {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
+
+  }
+.stuff{
+    background-color: #333;
+    border: 0px;
+
 }
-li
+tr
 {
   color: white;   
 }
 
-li a {
+ li a  {
   display: block;
   color: white;  
   text-align: center;
@@ -29,6 +34,21 @@ li a {
 
 li a:hover {
   background-color: #111;
+   
 }
-
+table {
+   background-color: #454545;
+   text-align: center;
+   border-color:white;
+    border: 1px solid white;
+}
  
+
+table td{
+   border-color:white;
+    border: 1px solid grey;
+}
+table li{
+    border-color:white;
+    border: 1px solid grey;
+}
