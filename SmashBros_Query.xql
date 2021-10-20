@@ -3,10 +3,10 @@
 xquery version "3.1";
 
 <html>
-    <head><title>YGame the Charecters are in</title></head>
+    <head><title>Games the Characters are in</title></head>
     
 <body>
-    <h1>SmashBro charecters and the games they are in</h1>
+    <h1>Super Smash Bros Characters and the Games They Are In</h1>
     <table>
         <tr>
             <th>Name</th>
