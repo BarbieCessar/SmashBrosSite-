@@ -1,7 +1,17 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
-    <head><title>Super Smash Characters' Tiers</title></head>
+    <head><title>Super Smash Characters' Tiers</title>
+    <link rel="stylesheet" type="text/css" href="style.css"/></head>
     <body> 
+    <ul class="stuff">
+    
+    <li><a href="index.html">Home</a></li>
+    <li><a href="about.html">About</a></li>
+    <li><a href="gamePHP.php">Games</a></li>
+    <li><a href="char.html">Characters</a></li>
+    <li><a href="tierPHP.php">Tiers</a></li>
+    
+</ul>
         <h1>Characters' Tiers Based On Game</h1>
 
             

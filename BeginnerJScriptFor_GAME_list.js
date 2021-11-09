@@ -15,70 +15,70 @@ function init() {
 }
 
 function HideSSB(){
-    var SSB = document.getElementsByClassName('SSB')
+    var SSB = document.getElementsByClassName('1')
     for (var i = 0, length = SSB.length; i < length; i++) 
     SSB[i].style.visibility='hidden';
 
 
 }
 function HideSSB2(){
-    var SSB2 = document.getElementsByClassName('SSBM')
+    var SSB2 = document.getElementsByClassName('2')
     for (var i = 0, length = SSB2.length; i < length; i++) 
     SSB2[i].style.visibility='hidden';
 
 
 }
 function HideSSB3(){
-    var SSB3 = document.getElementsByClassName('SSBB')
+    var SSB3 = document.getElementsByClassName('3')
     for (var i = 0, length = SSB3.length; i < length; i++) 
     SSB3[i].style.visibility='hidden';
 
 
 }
 function HideSSB4(){
-    var SSB4 = document.getElementsByClassName('SSB4')
+    var SSB4 = document.getElementsByClassName('4')
     for (var i = 0, length = SSB4.length; i < length; i++) 
     SSB4[i].style.visibility='hidden';
 
 
 }
 function HideSSB5(){
-    var SSB5 = document.getElementsByClassName('SSBU')
+    var SSB5 = document.getElementsByClassName('5')
     for (var i = 0, length = SSB5.length; i < length; i++) 
     SSB5[i].style.visibility='hidden';
 
 
 }
 function ShowSSB(){
-    var SSB = document.getElementsByClassName('SSB')
+    var SSB = document.getElementsByClassName('1')
     for (var i = 0, length = SSB.length; i < length; i++) 
     SSB[i].style.visibility='visible';
 
 
 }
 function ShowSSB2(){
-    var SSB2 = document.getElementsByClassName('SSBM')
+    var SSB2 = document.getElementsByClassName('2')
     for (var i = 0, length = SSB2.length; i < length; i++) 
     SSB2[i].style.visibility='visible';
 
 
 }
 function ShowSSB3(){
-    var SSB3 = document.getElementsByClassName('SSBB')
+    var SSB3 = document.getElementsByClassName('3')
     for (var i = 0, length = SSB3.length; i < length; i++) 
     SSB3[i].style.visibility='visible';
 
 
 }
 function ShowSSB4(){
-    var SSB4 = document.getElementsByClassName('SSB4')
+    var SSB4 = document.getElementsByClassName('4')
     for (var i = 0, length = SSB4.length; i < length; i++) 
     SSB4[i].style.visibility='visible';
 
 
 }
 function ShowSSB5(){
-    var SSB5 = document.getElementsByClassName('SSBU')
+    var SSB5 = document.getElementsByClassName('5')
     for (var i = 0, length = SSB5.length; i < length; i++) 
     SSB5[i].style.visibility='visible';
 
