@@ -3,6 +3,7 @@
     <head><title>Super Smash Characters' Tiers</title></head>
     <body> 
         <h1>Characters' Tiers Based On Game</h1>
+
             
         <?php
     require_once("config.php");
