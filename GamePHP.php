@@ -19,7 +19,8 @@
     <button class="button"  onclick="toggle">Toggle Hide/Show SSBB Results </button><br>
     <button class="button"  onclick="toggle">Toggle Hide/Show SSB4 Results </button><br>
     <button class="button"  onclick="toggle">Toggle Hide/Show SSBU Results </button><br>
-   
+  <input id="searchbar" onkeyup="search_char()" type="text"
+        name="search" placeholder="Search for Charecters..">
         <?php
     require_once("config.php");
     $contents = REST_PATH . "/db/smashtiers-queries/GameList.xql";

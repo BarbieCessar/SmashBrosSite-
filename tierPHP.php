@@ -17,7 +17,7 @@
             
         <?php
     require_once("config.php");
-    $contents = REST_PATH . "/db/smashtiers-queries/tiersforPHP.xql";
+    $contents = REST_PATH . "/db/smashtiers-queries/tiersforPHPcopy.xql";
     $result = file_get_contents($contents);
     echo $result;
 ?>
