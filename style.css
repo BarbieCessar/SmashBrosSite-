@@ -1,6 +1,6 @@
 @charset "UTF-8";
 body {
-  background-color: #A3BCFF;
+  background-image: url("images/backgroundhome.png");
 }
 .img-container {
         text-align: center;
@@ -112,3 +112,39 @@ table li{
 .tr{
    display: list-item;    
   } 
+  
+ 
+@font-face{
+    font-family: "Aleo";
+    src: url("aleo/Aleo-Regular.otf");
+}
+
+@font-face{
+    font-family: "Jungle-Hope";
+    src: url("jungle-hope/Jungle Hope Free Version.ttf");
+}
+
+h1{
+    font-family: "Jungle-Hope";
+    color: white;
+	font-size: 70px;
+	
+}
+h2,p{
+    font-family: "Aleo";
+    color: white;
+}
+
+.image1{
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 50%;
+	width: 200px;
+}
+header_image {
+	width:100%;
+	height: 300;
+	
+	
+}
