@@ -6,15 +6,15 @@
         <link rel="stylesheet" type="text/css" href="style.css"/>
     </head>
     <body>       
-    <ul class="stuff">
+     <ul class="stuff">
     
-         <li><a href="index.html" class="stuff">Home</a></li>
-    	   <li><a href="about.html">About</a></li>
-            <li><a href="GameList.html">Games</a></li>
-            <li><a href="char.html">Characters</a></li>
-            <li><a href="tiers.html">Tiers</a></li>
-        <li><a href="GamePHP.php">Test</a></li>
-        </ul> 
+    <li><a href="index.html">Home</a></li>
+    <li><a href="about.html">About</a></li>
+    <li><a href="gamePHP.php">Games</a></li>
+    <li><a href="char.html">Characters</a></li>
+    <li><a href="tierPHP.php">Tiers</a></li>
+    
+</ul>    
         <?php
     require_once("config.php");
     $contents = REST_PATH . "/db/smashtiers-queries/charByTier.xql";
