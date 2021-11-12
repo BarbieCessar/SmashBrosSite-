@@ -14,16 +14,11 @@
     <li><a href="tierPHP.php">Tiers</a></li>
     
 </ul>    
-    <button class="button">I Hide SSB1 Results </button><br>
-    <button class="button">I Hide SSBM Results </button><br>
-    <button class="button">I Hide SSBB Results </button><br>
-    <button class="button">I Hide SSB4 Results </button><br>
-    <button class="button">I Hide SSBU Results </button><br>
-    <button class="button">I Show SSB1 Results </button><br>
-    <button class="button">I Show SSBM Results </button><br>
-    <button class="button">I Show SSBB Results </button><br>
-    <button class="button">I Show SSB4 Results </button><br>
-    <button class="button">I Show SSBU Results </button><br>
+    <button class="button" onclick="toggle">Toggle Hide/Show SSB1 Results </button><br>
+    <button class="button"  onclick="toggle">Toggle Hide/Show SSBM Results </button><br>
+    <button class="button"  onclick="toggle">Toggle Hide/Show SSBB Results </button><br>
+    <button class="button"  onclick="toggle">Toggle Hide/Show SSB4 Results </button><br>
+    <button class="button"  onclick="toggle">Toggle Hide/Show SSBU Results </button><br>
    
         <?php
     require_once("config.php");
