@@ -8,7 +8,6 @@ window.addEventListener('DOMContentLoaded',myFunction,false);
  *  */
 
 function myFunction() {
- 
  var input = document.getElementById("myInput")
  {input[0].value.toUpperCase();}
  var  table = document.getElementById("myTable");
@@ -22,4 +21,5 @@ function myFunction() {
       }
       }
       }
+
       }
