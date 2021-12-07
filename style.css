@@ -1,55 +1,133 @@
 @charset "UTF-8";
 body {
   background-image: url("images/backgroundhome.png");
+   font-family: "Aleo";
 }
 .img-container {
         text-align: center;
         display: block;
       }
-  
+nav {background-color: #5b5b5b;
+width:90px;
+
+}
 ul.menu{
     background-color: #5b5b5b;
+     font-family: "Aleo";
     color: white;
     border: 0px;
     list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
+    text-align:left;
+ /* margin: 1em;*/
+  /*padding: 1em;*/
+ /* overflow: hidden;*/
   display:inline;
-
-
 
 }
 ul.menu li {
+background-color: #5b5b5b;
     display: inline;
-    position: relative;
+   /* position: relative;*/
 }
-ul.menu li ul {
-    position: absolute; 
+/*ul.menu li ul {
+
     display:none;
     
 }
  ul.menu li:hover ul  {
  display: block;
- color: black;
+ position:relative;
+ float:left;
+ /\*color: black;*\/
+ }
+ ul.menu li ul li {
+     list-style-type:none;
+     display:block;
+     }
     
-}
-tr
-{
-  color: white;   
+span.nav { padding:2em;
+margin:0;
+text-align: left;
+}*/
+ul.navbar{
+    list-style-type:none;
+     font-family: "Aleo";
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #6e727d;
+    color: white;
+    text-align: left;
+    overflow: hidden;
 }
 
+
+
+
+
+
+li a{
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover{
+color: white;
+background-color: #41434a;
+}
+
+li a, .dropbtn{
+overflow: hidden;
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    overflow: hidden;
+}
+
+li a:hover, .dropdown:hover .dropbtn{
+    background-color: #6e727d;
+    color: white;
+}
+
+.dropdown-content{
+    display: none;
+    position: absolute;
+    min-width: 200px;
+    z-index: 1;
+    background-color:#6e727d;
+        overflow: hidden;
+}
+
+.dropdown-content a{
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown:hover .dropdown-content{
+    display: block;
+    background-color:#41434a;
+}
  li a  {
-  display: block;
+background-color: #5b5b5b;
   color: white;  
   text-align: center;
-  padding: 14px 16px;
+padding-left:2em;
+padding-right: 2em;
   text-decoration: none;
   float: left;
+     padding:1em;
 }
 
 li a:hover {
-  background-color: #5b5b5b;
+  background-color:black;
+   padding:1em;
+  
+ 
    
 }
 table {
@@ -60,7 +138,7 @@ table {
 }
 
 
-myInput {
+.myInput {
   background-image: url('/css/searchicon.png'); /* Add a search icon to input */
   background-position: 10px 12px; /* Position the search icon */
   background-repeat: no-repeat; /* Do not repeat the icon image */
@@ -86,6 +164,7 @@ myInput {
 #myTable tr {
   /* Add a bottom border to all table rows */
   border-bottom: 1px solid #ddd; 
+  color:white;
 }
 
 #myTable tr.header, #myTable tr:hover {
@@ -97,7 +176,7 @@ table td{
    border-color:white;
     border: 1px solid grey;
 }
-table li{
+td li{
     border-color:white;
     border: 1px solid grey;
 
@@ -143,12 +222,16 @@ table li{
 h1{
     font-family: "Jungle-Hope";
     color: white;
-	font-size: 70px;
-	
+	font-size: 3em;
+	margin:auto;
+	text-align: center;
+	padding: .5em;
+	background: black;
 }
 h2,p{
     font-family: "Aleo";
     color: white;
+     text-align: center;
 }
 
 .image1{
@@ -157,6 +240,14 @@ h2,p{
 	margin-right: auto;
 	border-radius: 50%;
 	width: 200px;
+}
+.image2{
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 100%;
+	width: 300px;
+	
 }
 
 #gamelist { 	
@@ -170,40 +261,15 @@ display: flex;
      margin:auto;
      border-style:double;
  }
- li.menu a:hover{
-color: white;
-background-color: black;
-}
 
-li a, .dropbtn{
-    display: inline-block;
-    color: white;
-    font-family: "Aleo";
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
+div.content {
+    padding: 2em;
+    margin:auto;
+    width: 100%;
 }
-
-li a:hover, .dropdown:hover .dropbtn{
-    background-color: black;
-    color: white;
-}
-
-.dropdown-content{
-    display: none;
-    position: absolute;
-    min-width: 200px;
-    z-index: 1;
-    background-color:#6e727d;
-}
-
-.dropdown-content a{
-    text-decoration: none;
-    display: block;
-    text-align: left;
-}
-
-.dropdown:hover .dropdown-content{
-    display: block;
+tr {
     background-color:#5b5b5b;
+    color: white;
 }
+
+
