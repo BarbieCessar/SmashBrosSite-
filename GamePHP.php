@@ -5,13 +5,15 @@
     <script src="BeginnerJScriptFor_GAME_list.js">/**/</script>
     </head>
     <body> 
-    <ul class="stuff">
+    <img src="images/SBHeader.png" class="image2"/>
+   <ul class="menu">
     
     <li><a href="index.html">Home</a></li>
     <li><a href="about.html">About</a></li>
     <li><a href="gamePHP.php">Games</a></li>
     <li><a href="char.html">Characters</a></li>
-    <li><a href="tierPHP.php">Tiers</a></li>
+        <li><a href="tierPHP.php">Tiers</a> </li>
+       <li> <a href="VisPage.html">Tiers Visualization</a> </li>
     
 </ul>    
     <button class="button" onclick="toggle">Toggle Hide/Show SSB1 Results </button><br>
