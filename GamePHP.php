@@ -5,14 +5,20 @@
     <script src="BeginnerJScriptFor_GAME_list.js">/**/</script>
     </head>
     <body> 
+<<<<<<< HEAD
     <img src="images/SBHeader.png" alt = "" class="image2"/>
     
     <ul class="menu">
+=======
+    <img src="images/SBHeader.png" class="image2"/>
+   <ul class="menu">
+>>>>>>> 6ed80131bbbe1a9952d3963b60293121433e7e36
     
     <li><a href="index.html">Home</a></li>
     <li><a href="about.html">About</a></li>
     <li><a href="gamePHP.php">Games</a></li>
     <li><a href="char.html">Characters</a></li>
+<<<<<<< HEAD
     <li>
         <a class = "dropbtn">Tiers Dropdown</a>
         
@@ -20,6 +26,10 @@
             <a href="VisPage.html">Tiers Visualization</a></div>
         
     </li>
+=======
+        <li><a href="tierPHP.php">Tiers</a> </li>
+       <li> <a href="VisPage.html">Tiers Visualization</a> </li>
+>>>>>>> 6ed80131bbbe1a9952d3963b60293121433e7e36
     
 </ul>
       
