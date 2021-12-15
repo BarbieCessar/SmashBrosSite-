@@ -183,7 +183,7 @@ td li{
 }
  #searchbar{
      margin-left: 15%;
-     padding:15px;
+     padding:15px 5px 5px 5px;
      border-radius: 10px;
    }
  
@@ -223,9 +223,10 @@ h1{
     font-family: "Jungle-Hope";
     color: white;
 	font-size: 3em;
-	margin:auto;
+	margin-left: auto;
+	margin-right: auto;
 	text-align: center;
-	padding: .5em;
+	padding: 5px 5px 5px 5px;
 	background: black;
 }
 h2,p{
@@ -270,6 +271,23 @@ div.content {
 tr {
     background-color:#5b5b5b;
     color: white;
+}
+td {
+background-color:#5b5b5b;
+    color: white;
+    
+}
+div.button {
+    float: left;
+    padding: 5px 5px 5px 5px;
+}
+button {
+background-color:#5b5b5b;
+    color: white;
+    font-family: "Aleo";
+     padding: 5px 5px 5px 5px;
+     text-align: center; 
+    
 }
 
 

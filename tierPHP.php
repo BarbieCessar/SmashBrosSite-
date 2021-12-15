@@ -3,15 +3,23 @@
     <head><title>Super Smash Characters' Tiers</title>
     <link rel="stylesheet" type="text/css" href="style.css"/></head>
     <body> 
-    <ul class="stuff">
+     <img src="images/SBHeader.png" alt = "" class="image2"/>
+   <ul class="menu">
     
     <li><a href="index.html">Home</a></li>
     <li><a href="about.html">About</a></li>
     <li><a href="gamePHP.php">Games</a></li>
     <li><a href="char.html">Characters</a></li>
-    <li><a href="tierPHP.php">Tiers</a></li>
+    <li>
+        <a class = "dropbtn">Tiers Dropdown</a>
+        
+        <div class ="dropdown"> <a href="tierPHP.php">Tiers</a>
+            <a href="VisPage.html">Tiers Visualization</a></div>
+        
+    </li>
     
 </ul>
+    
         <h1>Characters' Tiers Based On Game</h1>
 
             
